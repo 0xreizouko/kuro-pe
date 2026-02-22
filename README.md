@@ -17,3 +17,5 @@ This project is licensed under the MIT license ([LICENSE] or <http://opensource.
 
 
 - [Vim editor](https://github.com/preiter93/edtui)
+
+- [hexyl - Rust CLI hex-editor](https://github.com/sharkdp/hexyl)
